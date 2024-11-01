@@ -10,8 +10,8 @@ Genetic Algorithm (GA)
 Simulated Annealing (SA)
 Genetic Simulated Annealing (GSA)
 Simulated Annealing with Advanced Adaptive Neighborhood (SA/ANN)
-Genetic Programming (GP)
-
+[Genetic Programming](obsidian://open?vault=Thesis&file=Concpets%2FGenetic%20Programming) (GP)
+Strongly-Typed Genetic Programming (STGP)
 
 In object-oriented evolutionary testing, [[metaheuristics]] are employed to select or generate test data for object-oriented software.
 

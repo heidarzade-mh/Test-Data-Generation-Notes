@@ -1,0 +1,1 @@
+Genetic Programming (GP) is a type of [EA](obsidian://open?vault=Thesis&file=Concpets%2FEvolutionary%20Algorithms) usually associated with the evolution of tree structures; it focuses on automatically creating computer programs by means of evolution ([[Koza]], 1992).

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2d9fabc465265306",
+        "id": "1d02d57ce3e70336",
         "type": "tabs",
         "children": [
           {
-            "id": "5fcc6dab6c5d0e49",
+            "id": "7c1c11978f17933a",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -24,7 +24,7 @@
             }
           },
           {
-            "id": "eee9780fe923c10c",
+            "id": "565c456616ce436c",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -175,9 +175,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eee9780fe923c10c",
+  "active": "565c456616ce436c",
   "lastOpenFiles": [
+    "Concpets/Genetic Programming.md",
+    "Peoples/Olsson.md",
+    "Peoples/Montana.md",
+    "Peoples/Wappler.md",
+    "Peoples/Poli.md",
     "Books/Evolutionary Approaches  to Test Data Generation for  Object-Oriented Software (Chapter 6).md",
+    "Peoples/Wainwright.md",
+    "Peoples/Schoenefeld.md",
+    "Peoples/Haynes.md",
+    "Peoples/Mcphee.md",
+    "Peoples/Langdon.md",
+    "Peoples/Koza.md",
+    "Concpets/Genetic Algorithm.md",
+    "Concpets/fitness functions.md",
+    "Peoples/Holland.md",
     "Concpets/Evolutionary Algorithms.md",
     "Peoples/Michalewicz.md",
     "Concpets/stochastic algorithms.md",
@@ -190,21 +204,7 @@
     "Concpets/data abstraction.md",
     "Untitled.canvas",
     "test.md",
-    "Peoples/Anand.md",
-    "Concpets/oracle.md",
-    "Concpets/hyper-heuristics.md",
-    "Concpets/co-evolutionary computation.md",
-    "Concpets/dynamic symbolic.md",
-    "Peoples/Maragathavalli.md",
-    "Concpets/Random Testing.md",
-    "Concpets/Genetic Programming.md",
     "Concpets",
-    "().md",
-    "Concpets/Local search.md",
-    "Peoples/McMinn.md",
-    "Peoples/Harman.md",
-    "Peoples/Afzal.md",
-    "Concpets/fitness functions.md",
     "Technologies",
     "Books",
     "Articles",
