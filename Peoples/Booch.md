@@ -1,0 +1,1 @@
+A language is considered OO if it directly supports [[data abstraction]] and classes, and also [[encapsulation]], [[inheritance]], and polymorphism ([[Booch]] et al., 2007).

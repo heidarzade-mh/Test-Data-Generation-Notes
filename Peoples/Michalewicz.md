@@ -1,0 +1,1 @@
+Evolutionary Algorithms (EAs) are the most studied [[metaheuristics]]. they are [[stochastic algorithms]], which use simulated evolution as a search strategy to iteratively evolve candidate solutions, using operators inspired by genetics and natural selection ([[Michalewicz]], 1994).

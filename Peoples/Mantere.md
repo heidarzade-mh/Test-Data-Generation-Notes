@@ -1,0 +1,1 @@
+In ([[Mantere]] & [[Alander]], 2005), a review of the application of [[Genetic Algorithm]] (GA)-based optimisation methods to ST is presented; the authors stress out that all the researchers in this area report good (or, at least, encouraging) results regarding their use

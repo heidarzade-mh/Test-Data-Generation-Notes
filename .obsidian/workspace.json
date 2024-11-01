@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "0b94f96363eed2e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d9fabc465265306",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fcc6dab6c5d0e49",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Evolutionary Approaches  to Test Data Generation for  Object-Oriented Software (Chapter 6).md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Evolutionary Approaches  to Test Data Generation for  Object-Oriented Software (Chapter 6)"
+            }
+          },
+          {
+            "id": "eee9780fe923c10c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7b29c11a1d3b5964",
+    "type": "split",
+    "children": [
+      {
+        "id": "73644ddd233412b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44613e36fec109f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8318cd9e78fa203e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0e9a9acca261f62c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "295fd7589cc37448",
+    "type": "split",
+    "children": [
+      {
+        "id": "7605a9af36881372",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2446638483868f69",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Books/Evolutionary Approaches  to Test Data Generation for  Object-Oriented Software (Chapter 6).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Evolutionary Approaches  to Test Data Generation for  Object-Oriented Software (Chapter 6)"
+            }
+          },
+          {
+            "id": "cd2d75ff05d7f0c7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Books/Evolutionary Approaches  to Test Data Generation for  Object-Oriented Software (Chapter 6).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Evolutionary Approaches  to Test Data Generation for  Object-Oriented Software (Chapter 6)"
+            }
+          },
+          {
+            "id": "8a02ddcbe0b438a2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "17932323f75f61fb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Books/Evolutionary Approaches  to Test Data Generation for  Object-Oriented Software (Chapter 6).md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Evolutionary Approaches  to Test Data Generation for  Object-Oriented Software (Chapter 6)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "eee9780fe923c10c",
+  "lastOpenFiles": [
+    "Books/Evolutionary Approaches  to Test Data Generation for  Object-Oriented Software (Chapter 6).md",
+    "Concpets/Evolutionary Algorithms.md",
+    "Peoples/Michalewicz.md",
+    "Concpets/stochastic algorithms.md",
+    "Concpets/metaheuristics.md",
+    "Concpets/polymorphism.md",
+    "Concpets/inheritance.md",
+    "Concpets/encapsulation.md",
+    "Peoples/Eckel.md",
+    "Peoples/Booch.md",
+    "Concpets/data abstraction.md",
+    "Untitled.canvas",
+    "test.md",
+    "Peoples/Anand.md",
+    "Concpets/oracle.md",
+    "Concpets/hyper-heuristics.md",
+    "Concpets/co-evolutionary computation.md",
+    "Concpets/dynamic symbolic.md",
+    "Peoples/Maragathavalli.md",
+    "Concpets/Random Testing.md",
+    "Concpets/Genetic Programming.md",
+    "Concpets",
+    "().md",
+    "Concpets/Local search.md",
+    "Peoples/McMinn.md",
+    "Peoples/Harman.md",
+    "Peoples/Afzal.md",
+    "Concpets/fitness functions.md",
+    "Technologies",
+    "Books",
+    "Articles",
+    "Peoples"
+  ]
+}

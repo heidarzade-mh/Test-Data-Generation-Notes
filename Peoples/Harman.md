@@ -1,0 +1,1 @@
+[[Harman]] and [[McMinn]] conducted a theoretical and empirical study on the SBST field with the purposes of predicting the scenarios in which ET should perform properly and of justifying the reasons why a specific technique suited a particular situation (Harman & McMinn, 2010). 

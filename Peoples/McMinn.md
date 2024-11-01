@@ -1,0 +1,3 @@
+McMinn surveys the use of [metaheuristic](metaheuristics) search techniques for the automatic generation of test data (McMinn, 2004); because the work on SBST had, thus far (2004), been largely restricted to programs of a procedural nature, these are the main subject of this review.
+
+[[Harman]] and [[McMinn]] conducted a theoretical and empirical study on the SBST field with the purposes of predicting the scenarios in which ET should perform properly and of justifying the reasons why a specific technique suited a particular situation (Harman & McMinn, 2010). 

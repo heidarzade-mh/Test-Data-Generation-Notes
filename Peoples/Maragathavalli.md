@@ -1,0 +1,1 @@
+[[Maragathavalli]] also performed an overview of the current SBST techniques, and pointed out that for programs in which the complexity of the input domain grows, the efficacy of [GA](obsidian://open?vault=Thesis&file=Concpets%2FGenetic%20Algorithm) is quite significant when compared to [[random testing]] (Maragathavalli, 2011).
